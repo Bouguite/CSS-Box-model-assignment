@@ -1,0 +1,49 @@
+body {
+  font-size: 28px;
+  line-height: 50px;
+  font-family: "Bebas Neue", cursive;
+  background-image: url(img_skyline.jpg);
+  background-blend-mode: multiply;
+  text-align: center;
+
+  color: rgb(17, 8, 8);
+}
+a:hover {
+  color: rgb(2, 1, 2);
+}
+.black-border1 {
+  font-size: 28px;
+  line-height: 50px;
+  font-family: "Bebas Neue", cursive;
+  border: 4px solid rgb(8, 8, 12);
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-bottom: 50px;
+  margin-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.black-border2 {
+  border: 3px solid rgb(12, 3, 3);
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#green-background {
+  background-color: rgb(174, 206, 221);
+}
+
+.ul-1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+ 
+}
+li {
+  display: inline;
+}
